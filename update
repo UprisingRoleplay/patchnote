@@ -1,2 +1,77 @@
-Patch-note 2.00 
-Test
+### Patch Note - 2.0
+
+**Mécano :**
+- Correction du problème où les factures de 0$ ne pouvaient pas être supprimées.
+- Correction du tuning pour résoudre les problèmes de désynchronisation.
+- Correction du problème où les roues étaient installées immédiatement lors de la commande.
+- Fix de la désynchronisation des Xeons.
+- Réintroduction des modifications moteurs, NOS, etc.
+
+**Téléphone :**
+- Redesign complet des applications pour se conformer aux TOS de FiveM.
+- Nouvelle interface utilisateur et amélioration de la navigation.
+- Redesign des applications suivantes : Paramètres, Caméra, Notes, Apps (store), Météo, Calculatrice, Portefeuille, Horloge, Mail, Mémos vocaux, Application Téléphone, Messages, Photos, Pages, MarketPlace, DarkChat.
+- Amélioration des performances générales.
+- Interface d'appel revisitée avec un nouveau look.
+- Écran de configuration repensé pour être plus convivial.
+- Ajout d'animations fluides dans toutes les applications.
+- **Important :** Réinitialisation de la base de données, vous devrez redonner vos nouveaux numéros à vos contacts.
+
+**Concessionnaire :**
+- Modification de la commande `/myfinance` pour `/finance`.
+
+**Casino :**
+- Mise à jour mineure du script de casino.
+- Retour de l'utilisation du `ox_target` (ALT) pour une interaction plus rapide.
+
+**Weed :**
+- Introduction d'un nouveau système de culture de cannabis.
+- Possibilité de produire du hash.
+
+**Braquages :**
+- Refonte du braquage de la Pacific Standard.
+- Fixe pour le braquage de Paleto et les clés USB reçues.
+- Possibilité de stacker les clés USB.
+
+**EMS :**
+- Ajout de blips à Paleto.
+- Ajout du menu vêtement, menu patron, coffre, et magasin pour les EMS à Paleto.
+- Ajout de la convalescence à Paleto.
+- Fixe de la convalescence dans les hôpitaux.
+- Correction des IFAK normaux et police.
+- Plusieurs petits correctifs dans le menu EMS de soin.
+- Ajout de la fonction "finaliser les soins" pour les EMS si l'individu ne se sent pas à 100% de vie.
+
+**Police :**
+- Fixe de la zone d'entraînement police.
+- Ajout de mugshots à Sandy Shores et Paleto.
+- Blips pour le poste de Paleto.
+- Ajout de l'armurerie et du stationnement pour véhicules de police à Paleto.
+- Les lieutenants et grades supérieurs peuvent désormais supprimer des dossiers.
+- Ajout d'un mégaphone.
+
+**Restaurant :**
+- Réduction drastique du temps de préparation des plats.
+- Réduction de l'hydratation apportée par le Coca-Cola dans les distributeurs.
+
+**Gang :**
+- Mise à jour des zones interdites pour les tags.
+- Refonte complète du script de gangs.
+- Changement de la méthode pour le craft d'armes.
+- Ajout d'un système de guerre de gangs, incluant la possibilité d'acheter de la surveillance de territoires.
+
+
+**Autres :**
+- Ajout d'un garage personnel (Irish).
+- Ajout du blip du garage public au Pearls.
+- Ajout des vélos au concessionnaire.
+- Diminution de moitié du poids des sachets de drogues provenant des labos.
+- Ajout d'une option pour attacher les gens et leur masquer la vision.
+- Possibilité de prendre des otages.
+- Introduction d'un nouveau métier de vendeur de voitures d'occasion.
+- Modification du HUD et du loading screen.
+- Ajout de la loterie dans les dépanneurs.
+- Suppression du driveby.
+- Ajout des vêtements tenus en items.
+- Refonte complète du système de pêche.
+- Ajout d'un système de paintball avec la carte Nuketown.
